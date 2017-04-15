@@ -34,6 +34,10 @@ class App extends Component {
 
 		return (
 			<div>
+				<div className="header">
+					<i className="fa fa-2x fa-youtube"></i>
+					<h2>API Search</h2>
+				</div>
 				<SearchBar onSearchTermChange={videoSearch} />
 				<VideoDetail video={this.state.selectedVideo} />
 				<VideoList
