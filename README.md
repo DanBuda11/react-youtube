@@ -1,3 +1,11 @@
 ## React YouTube Search
 
-A YouTube video search using YouTube's API. Built with React using ES6.
+<kbd>![Image](youtube-api.png)</kbd>
+
+A video search/player built with React and using YouTube's API.
+
+Also includes:
+* ES6
+* Responsive design
+* Lodash
+* Bootstrap to help with styling
